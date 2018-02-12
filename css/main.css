@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+/*********** PAGE STARTS ***********/
+
+body {
+	background-color: #e5d7dc;
+}
+
+@media (max-width: 1080px) {
+	body {
+		background-color: #baa5ac
+	}
+}
+
+@media (max-width: 550px) {
+	body {
+		background-color: #917880;
+	}
+}
+
+@media (max-width: 400px) {
+	body {
+		background-color: #5e4950;
+	}
+}
