@@ -1,6 +1,7 @@
 # Name of Assignment
 * Lauren Light
 * 2/11/18
+* [Github Repo link](https://github.com/laurenmlight/hw_mq_light_lauren/)
 
 ## Resources
 
